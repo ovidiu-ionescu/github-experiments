@@ -25,17 +25,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4.398062"
-     inkscape:cx="405.71429"
-     inkscape:cy="774.28571"
+     inkscape:zoom="2.199031"
+     inkscape:cx="305.19119"
+     inkscape:cy="734.03785"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="3840"
-     inkscape:window-height="2063"
-     inkscape:window-x="3840"
-     inkscape:window-y="27"
-     inkscape:window-maximized="1" />
+     inkscape:window-width="2749"
+     inkscape:window-height="1326"
+     inkscape:window-x="3950"
+     inkscape:window-y="327"
+     inkscape:window-maximized="0" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -53,7 +53,8 @@
      inkscape:groupmode="layer"
      id="layer1">
     <g
-       id="g824">
+       id="g824"
+       transform="translate(0.11891365)">
       <rect
          y="88.524368"
          x="32.505951"
@@ -72,6 +73,28 @@
            x="71.736855"
            id="tspan817"
            sodipodi:role="line">Label 1</tspan></text>
+    </g>
+    <g
+       id="g4558"
+       transform="translate(-0.47124672)">
+      <rect
+         y="128.31937"
+         x="33.448444"
+         height="23.582355"
+         width="116.46796"
+         id="rect4549"
+         style="opacity:0.897;fill:#ff0000;fill-opacity:1;stroke:#a5ab1d;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         id="text4553"
+         y="144.05605"
+         x="72.368355"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="144.05605"
+           x="72.368355"
+           id="tspan4551"
+           sodipodi:role="line">Label 2</tspan></text>
     </g>
   </g>
 </svg>
